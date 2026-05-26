@@ -97,13 +97,7 @@ Playing riffs and bits is not playing. A musician is only as good as their song 
 
 **Musical difficulty scale (rough guide):**
 
-| Difficulty | Genre / style |
-|---|---|
-| 2–3 | Basic pop, simple folk, 3-chord rock |
-| 4–5 | Classic rock (Stairway, Hendrix, Page) |
-| 6–7 | Blues, intermediate rock |
-| 8–9 | Advanced rock, fusion |
-| 10 | Jazz, classical (Pat Metheny, Joe Pass, John McLaughlin) |
+![Guitar Difficulty Scale](img\lesson-01\guitar-difficulty-scale.png)
 
 ### Thing 2 — Check yourself out
 
@@ -140,18 +134,7 @@ Pitch = high and low, but high and low *what*? **Notes.**
 
 Everything you came here to learn lives under pitch:
 
-```
-PITCH
-├── Notes
-├── Chords
-├── Scales
-├── Melody
-├── Harmony
-├── Intervals  ← the most important subheading (everything else is made of these)
-├── Chord progressions
-├── Modes
-└── Arpeggios
-```
+![Pitch Subheadings](img\lesson-01\pitch-subheadings.png)
 
 These are all **patterns of notes** — like words spelled from the musical alphabet.
 
@@ -199,15 +182,6 @@ Reading and writing sheet music. Learning curve is comparable to learning to rea
 ## 5. The end-of-song checklist
 
 At the end of every song you play, run through this checklist. Answer yes to all six — or figure out which one you need to work on.
-
-| # | Area | Ask yourself |
-|---|---|---|
-| 1 | Pitch | Did I play the right notes? |
-| 2 | Rhythm | Did I keep with the beat? |
-| 3 | Timbre | How did I sound? |
-| 4 | Dynamics | Did I play loud in the loud parts and soft in the soft parts? |
-| 5 | Technique | Did I cooperate with the machine? |
-| 6 | Notation | How is my reading coming? *(ongoing — not a per-song question)* |
 
 ![The 6 Main Areas of Music](img\lesson-01\the-six-main-areas-of-music.png)
 
