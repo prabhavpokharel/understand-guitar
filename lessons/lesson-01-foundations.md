@@ -97,7 +97,7 @@ Playing riffs and bits is not playing. A musician is only as good as their song 
 
 **Musical difficulty scale (rough guide):**
 
-![Guitar Difficulty Scale](https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-01/guitar-difficulty-scale.png?raw=true)
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-01/guitar-difficulty-scale.png?raw=true" width="500">
 
 ### Thing 2 — Check yourself out
 
@@ -134,7 +134,7 @@ Pitch = high and low, but high and low *what*? **Notes.**
 
 Everything you came here to learn lives under pitch:
 
-![Pitch Subheadings](https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-01/pitch-subheadings.png?raw=true)
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-01/pitch-subheadings.png?raw=true" width="500">
 
 These are all **patterns of notes** — like words spelled from the musical alphabet.
 
@@ -183,7 +183,7 @@ Reading and writing sheet music. Learning curve is comparable to learning to rea
 
 At the end of every song you play, run through this checklist. Answer yes to all six — or figure out which one you need to work on.
 
-![The 6 Main Areas of Music](https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-01/the-six-main-areas-of-music.png?raw=true)
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-01/the-six-main-areas-of-music.png?raw=true" width="350">
 
 > "If you can answer yes to all six, they're going to be clapping and throwing money at you in no time. If even one gets away from you, they're probably going to kick you out of the band and get somebody who can."
 
