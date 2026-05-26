@@ -79,6 +79,8 @@ The open strings ARE in alphabetical order. You just cannot see it because the n
 
 > **This is the single most important fact about understanding the guitar as a physical object.**
 
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-03/four-fingers-four-frets.png?raw=true" width="500">
+
 The guitar was designed by and for human beings who have **four fingers** on their fretting hand. So whoever originally designed the standard tuning made sure that each pair of adjacent strings is exactly **four notes apart**.
 
 Why four notes? Because that is exactly how many notes you can play with your four fingers before running out. When you reach your pinky on one string, the very next note higher up is sitting right on the open next string. You just switch strings and keep going.
@@ -89,6 +91,8 @@ It works exactly like a piano keyboard. On a piano you can see the notes spread 
 Piano:   | C | C# | D | D# | E | F | F# | G | G# | A | A# | B | C |
 Guitar:  Open → Fret 1 → Fret 2 → Fret 3 → Fret 4 → (switch string) → Open → ...
 ```
+
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-03/fretboard-first-position.png?raw=true" width="500">
 
 ---
 
@@ -190,10 +194,7 @@ The trade off was a slight inconsistency in the tuning logic. It was worth it.
 
 Whenever you are working with a pattern that crosses from the G string to the B string, something shifts by one fret to account for the missing note. This shows up in chord shapes, scales, and especially in the chromatic scale exercise below.
 
-```
-Normal gap between strings:   4 notes apart
-G → B gap:                     3 notes apart  ← remember this forever
-```
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-03/chromatic-scale.png?raw=true" width="500">
 
 ---
 
@@ -239,10 +240,7 @@ Place the guitar on your **left leg** with your knees slightly apart. The body o
 
 This is how classical guitarists have always sat. They get more out of the instrument than anyone else precisely because they figured this out.
 
-```
-WRONG: guitar on right leg → neck angles down → shoulder hunches → wrist strains
-RIGHT: guitar on left leg → neck angles up  → arm hangs free → four frets easy to reach
-```
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-03/guitar-holding-wrong-vs-right.png?raw=true" width="500">
 
 Think of it this way. When you stand up and put a guitar strap on, the strap naturally pulls the guitar to the center of your body with the neck angled up. Sitting on your left leg replicates that same position without a strap.
 
@@ -255,6 +253,8 @@ Your thumb should rest **behind the neck**, roughly opposite your middle finger.
 ## 9. The chromatic scale exercise
 
 > **This is the single most important exercise anyone will ever give you on the guitar.**
+
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-03/index-pinky-shift.png?raw=true" width="500">
 
 A chromatic scale means playing all 12 notes in sequence, one at a time, moving up or down by half steps. On the guitar in first position it means walking up the fretboard string by string.
 
@@ -298,11 +298,9 @@ String 6 (low E):  Fret 4 → Fret 3 → Fret 2 → Fret 1 → Open
 
 From the very first day, train your picking hand to use **alternate picking**: down stroke, up stroke, down stroke, up stroke, every single note.
 
-Most beginners default to all down strokes. Some default to all up strokes. Both are dead ends. Speed on the guitar is physically impossible without alternate picking because you are wasting half of your available pick motion.
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-03/alternate-picking.png?raw=true" width="500">
 
-```
-Every note:  ↓  ↑  ↓  ↑  ↓  ↑  ↓  ↑  ↓  ↑
-```
+Most beginners default to all down strokes. Some default to all up strokes. Both are dead ends. Speed on the guitar is physically impossible without alternate picking because you are wasting half of your available pick motion.
 
 The whole skill of playing the guitar comes down to coordinating your picking hand (down up down up) with your fretting hand (four fingers across four frets). That is essentially it.
 
