@@ -72,6 +72,8 @@ This is the most important idea in this entire lesson.
 
 > A chord is a word in the language of music. It has a spelling. When you put your fingers on the neck to play a chord, you are getting the typewriter to produce the word you are trying to spell.
 
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-04/five-form-chords.png?raw=true" width="600">
+
 Every chord has a specific set of notes that must be present for it to qualify as that chord. Those notes are its spelling. The notes:
 
 - Do not have to be in any particular order
