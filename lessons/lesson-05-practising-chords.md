@@ -54,11 +54,7 @@ Every chord has a name. That name always has three components, though the third 
 
 ### The three parts
 
-| Part | What it tells you | Example |
-|------|-------------------|---------|
-| **1. Root note** | Which of the 12 notes is the anchor | B flat |
-| **2. Chord type** | What kind of chord it is | major seven |
-| **3. Form** | Which of the five finger forms to use | in the A form |
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-05/chord-name-three-parts.png?raw=true" width="500px">
 
 Put together: **B flat major seven in the A form**
 
@@ -92,6 +88,8 @@ The root note tells you how far up the neck to move the bar chord. Start from th
 Chord name →  Work backwards  →  Form (row) + Type (column) = basic shape
                                →  Root note = how far up the neck to move it
 ```
+
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-05/work-backwards-flowchart.png?raw=true" width="300px">
 
 ---
 
@@ -219,17 +217,7 @@ Most people spend all their practice time learning to form individual chord shap
 
 The goal is not to know how to play a chord. The goal is to **get there instantly**.
 
-### The practice formula
-
-```
-Practice chords in pairs
-Back and forth every four beats
-Non-stop for five minutes at a time
-WITH a drum machine or timekeeper
-As slow as you need to be
-Think ahead to the next chord
-Listen to yourself as you play
-```
+<img src="https://github.com/prabhavpokharel/understand-guitar/blob/main/img/lesson-05/practice-formula.png?raw=true" width="500px">
 
 ### Why pairs
 
